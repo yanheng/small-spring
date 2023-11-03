@@ -1,0 +1,26 @@
+## Porject
+logs/
+work/
+storage/
+ndcp-collector-server/work
+**/dependency-reduced-pom.xml
+job_response.html
+**/.flattened-pom.xml
+download/
+
+## IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+${env.M2_HOME}/*
+**/target/
+
+## MacOS
+.DS_Store
+/data/
+**/data/
+
+## NDCP
+stress-data.json
+stress-schema.sql
